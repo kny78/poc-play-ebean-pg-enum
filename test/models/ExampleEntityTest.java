@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import play.test.WithApplication;
 
-public class ExampleEntityTest extends WithAhpplication {
+public class ExampleEntityTest extends WithApplication {
 
   @Test
   public void save() {
